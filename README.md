@@ -1,5 +1,5 @@
 ### Hi there, I'm Irene
-
+I am a dedicated Web App Developer focused on growing within the web development industry. I stand out for continuous learning, creativity, and strong problem-solving skills, bringing value to every project I work on. I am eager to face new challenges, contribute to team growth, and keep expanding my skills to deliver meaningful impact in any organization. 
 ## Technical Skills  
 
 | IDEs | Languages | Frameworks & Libraries | Version Control | CMD |
