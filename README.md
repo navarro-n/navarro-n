@@ -1,6 +1,6 @@
 <h1>Hi, I'm Irene</h1>
 
-<p align="center">
+<p>
 I am a dedicated Web App Developer focused on growing within the web development industry.  
 I stand out for continuous learning, creativity, and strong problem-solving skills,  
 bringing value to every project I work on.  
