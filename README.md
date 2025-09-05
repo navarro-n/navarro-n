@@ -17,13 +17,9 @@ to deliver meaningful impact in any organization.
 ##
 <a href="https://github.com/navarro-n"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=navarro-n&layout=compact&theme=tokyonight&hide_border=true" /></a>
 
-## Connect with me  
+## Connect with me
 
 <p>
-  <a href="mailto:irenepinillos.n@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://www.linkedin.com/in/irenepinillosnavarro/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
+<a href="mailto:irenepinillos.n@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+<a href="https://www.linkedin.com/in/irenepinillosnavarro/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
