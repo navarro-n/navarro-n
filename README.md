@@ -19,5 +19,5 @@ to deliver meaningful impact in any organization.
 
 ## Connect with me
 
-<a href="mailto:irenepinillos.n@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+[Email](mailto:irenepinillos.n@gmail.com)
 <a href="https://www.linkedin.com/in/irenepinillosnavarro/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
