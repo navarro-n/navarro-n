@@ -1,6 +1,8 @@
-<div aling="center">
-  <h1>Hola, soy Irene</h1>
-</div>
+### Hi there, I'm Irene
+
+#### Languages:
+
+![JavaScript](https://img.shields.io/badge/JavaScript-ED8B00?style=for-the-badge&logo=java&logoColor=white)&nbsp;
 
 <!--
 **navarro-n/navarro-n** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
