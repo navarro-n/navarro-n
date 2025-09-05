@@ -1,4 +1,4 @@
-<h1>Hi, I'm Irene</h1>
+<h1>Hi there, I'm Irene!</h1>
 
 <p>
 I am a dedicated Web App Developer focused on growing within the web development industry.  
