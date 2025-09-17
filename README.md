@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Irene!</h1>
 
 <p>
-I am a dedicated Web App Developer focused on growing within the web development industry.  
+I am a dedicated <b>Web App Developer</b> focused on growing within the web development industry.  
 I stand out for continuous learning, creativity, and strong problem-solving skills,  
 bringing value to every project I work on.  
 I am eager to face new challenges, contribute to team growth, and keep expanding my skills  
