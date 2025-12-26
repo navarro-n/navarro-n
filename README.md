@@ -19,6 +19,8 @@ to deliver meaningful impact in any organization.
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=navarro-n&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400" />
 </a>
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=navarro-n&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/navarro-n)
+
 ## Connect with me
 
 <!-- <a href="mailto:irenepinillos.n@gmail.com"> <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a> -->
